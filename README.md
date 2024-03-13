@@ -25,8 +25,6 @@ http://138.186.20.13:23200/play/a0fs
 http://138.186.20.13:23200/play/a0f1 
 #EXTINF:-1 group-title="Lista 78 Colombia",CINE FAMILIAR HD 
 http://138.186.20.13:23200/play/a0du 
-#EXTINF:-1 group-title="Lista 78 Colombia",CINECANAL HD 
-http://138.186.20.13:23200/play/a0ef 
 #EXTINF:-1 group-title="Lista 78 Colombia",CNN Chile HD 
 http://138.186.20.13:23200/play/a04i 
 #EXTINF:-1 group-title="Lista 78 Colombia",CNN Espaæol 
