@@ -29,10 +29,6 @@ http://138.186.20.13:23200/play/a0du
 http://138.186.20.13:23200/play/a04i 
 #EXTINF:-1 group-title="Lista 78 Colombia",CNN Espaæol 
 http://138.186.20.13:23200/play/a0do 
-#EXTINF:-1 group-title="Lista 78 Colombia",CNN Internacional 
-http://138.186.20.13:23200/play/a06i 
-#EXTINF:-1 group-title="Lista 78 Colombia",CNN International 
-http://138.186.20.13:23200/play/a0cl 
 #EXTINF:-1 group-title="Lista 78 Colombia",Cable Noticias 
 http://138.186.20.13:23200/play/a0c6 
 #EXTINF:-1 group-title="Lista 78 Colombia",Canal 1 HD 
