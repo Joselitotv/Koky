@@ -414,4 +414,9 @@ http://138.186.20.13:23200/play/a0ex
 http://138.186.20.13:23200/play/a0et 
 #EXTINF:-1 group-title="Lista 78 Colombia",ULTRA KIDS 
 http://138.186.20.13:23200/play/a0f0 
-#EXTINF:-1 group-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png"group-title="Deportes",Win Sports+ HD 
+http://181.78.6.106:45000/play/a014
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png"group-title="Deportes",Win Sports+op2 HD 
+http://190.61.43.117:45000/play/a024
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png"group-title="Deportes",Win Sports+op3 HD 
+http://200.59.188.3:8000/play/a028
