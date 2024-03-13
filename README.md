@@ -3,34 +3,12 @@
 http://138.186.20.13:23200/play/a0f6 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/633/904/png-transparent-a-e-networks-television-channel-entertainment-television-show-hd-logo.png" group-title="Lista 78 Colombia",A&E HD 
 http://138.186.20.13:23200/play/a04k 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/633/904/png-transparent-a-e-networks-television-channel-entertainment-television-show-hd-logo.png" group-title="Lista 78 Colombia",A&E HD 
-http://138.186.20.13:23200/play/a078 
-#EXTINF:-1 group-title="Lista 78 Colombia",AMC HD 
-http://138.186.20.13:23200/play/a079 
 #EXTINF:-1 group-title="Lista 78 Colombia",AMC HD 
 http://138.186.20.13:23200/play/a05y 
 #EXTINF:-1 group-title="Lista 78 Colombia",ANTIESTRES 
 http://138.186.20.13:23200/play/a0f5 
-#EXTINF:-1 group-title="Lista 78 Colombia",ATRES SERIES HD 
-http://138.186.20.13:23200/play/a05a 
-#EXTINF:-1 group-title="Lista 78 Colombia",AXN 
-http://138.186.20.13:23200/play/a06x 
-#EXTINF:-1 group-title="Lista 78 Colombia",AXN HD 
-http://138.186.20.13:23200/play/a092 
-#EXTINF:-1 group-title="Lista 78 Colombia",AZ Cinema 
-http://138.186.20.13:23200/play/a0bb 
 #EXTINF:-1 group-title="Lista 78 Colombia",AZ click HD 
 http://138.186.20.13:23200/play/a07f 
-#EXTINF:-1 group-title="Lista 78 Colombia",Animal Planet 
-http://138.186.20.13:23200/play/a0e7 
-#EXTINF:-1 group-title="Lista 78 Colombia",Animal Planet HD 
-http://138.186.20.13:23200/play/a075 
-#EXTINF:-1 group-title="Lista 78 Colombia",Animal Planet HD 
-http://138.186.20.13:23200/play/a067 
-#EXTINF:-1 group-title="Lista 78 Colombia",Antena 3 
-http://138.186.20.13:23200/play/a0d0 
-#EXTINF:-1 group-title="Lista 78 Colombia",Antena 3 
-http://138.186.20.13:23200/play/a06c 
 #EXTINF:-1 group-title="Lista 78 Colombia",Az Mundo 
 http://138.186.20.13:23200/play/a0e0 
 #EXTINF:-1 group-title="Lista 78 Colombia",Azcorazon 
