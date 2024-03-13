@@ -53,7 +53,6 @@ http://138.186.20.13:23200/play/a0am
 http://138.186.20.13:23200/play/a0fq
 #EXTINF:-1 group-title="Lista 78 Colombia",De PelŦcula 
 http://138.186.20.13:23200/play/a0cf 
-#EXTINF:-1 group-title="Lista 78 Colombia",Discovery Channel HD 
 http://138.186.20.13:23200/play/a09b #EXTINF:-1 group-title="Lista 78 Colombia",Discovery H&H HD http://138.186.20.13:23200/play/a0fc 
 #EXTINF:-1 group-title="Lista 78 Colombia",Discovery ID HD 
 http://138.186.20.13:23200/play/a09f 
