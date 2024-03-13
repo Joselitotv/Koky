@@ -62,20 +62,8 @@ http://138.186.20.13:23200/play/a0bz
 http://138.186.20.13:23200/play/a053 
 #EXTINF:-1 group-title="Lista 78 Colombia",Disney JR 
 http://138.186.20.13:23200/play/a06p 
-#EXTINF:-1 group-title="Lista 78 Colombia",E! 
-http://138.186.20.13:23200/play/a0e3 
-#EXTINF:-1 group-title="Lista 78 Colombia",E! Entertainment TV 
-http://138.186.20.13:23200/play/a08j 
-#EXTINF:-1 group-title="Lista 78 Colombia",E! Entertairment HD 
-http://138.186.20.13:23200/play/a076 
-#EXTINF:-1 group-title="Lista 78 Colombia",E! HD 
-http://138.186.20.13:23200/play/a0bj 
-#EXTINF:-1 group-title="Lista 78 Colombia",ESPN 
-http://138.186.20.13:23200/play/a0ea 
 #EXTINF:-1 group-title="Lista 78 Colombia",ESPN 2 HD 
 http://138.186.20.13:23200/play/a096 
-#EXTINF:-1 group-title="Lista 78 Colombia",ESPN 2 HD 
-http://138.186.20.13:23200/play/a04u 
 #EXTINF:-1 group-title="Lista 78 Colombia",ESPN 2 HD 
 http://138.186.20.13:23200/play/a059 
 #EXTINF:-1 group-title="Lista 78 Colombia",ESPN 3 HD 
