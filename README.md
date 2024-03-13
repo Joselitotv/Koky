@@ -56,10 +56,6 @@ http://138.186.20.13:23200/play/a0cf
 #EXTINF:-1 group-title="Lista 78 Colombia",Discovery Kids HD 
 http://138.186.20.13:23200/play/a0fb 
 #EXTINF:-1 group-title="Lista 78 Colombia",Discovery Turbo http://138.186.20.13:23200/play/a0ch 
-#EXTINF:-1 group-title="Lista 78 Colombia",Discovery World HD 
-http://138.186.20.13:23200/play/a09c 
-#EXTINF:-1 group-title="Lista 78 Colombia",Discovery World HD 
-http://138.186.20.13:23200/play/a05w 
 #EXTINF:-1 group-title="Lista 78 Colombia",Disney Channel 
 http://138.186.20.13:23200/play/a0bz 
 #EXTINF:-1 group-title="Lista 78 Colombia",Disney HD 
