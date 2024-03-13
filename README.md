@@ -39,36 +39,20 @@ http://138.186.20.13:23200/play/a0by
 http://138.186.20.13:23200/play/a061 
 #EXTINF:-1 group-title="Lista 78 Colombia",Cine Hispano HD 
 http://138.186.20.13:23200/play/a0dv 
-#EXTINF:-1 group-title="Lista 78 Colombia",Cine Latino 
-http://138.186.20.13:23200/play/a08x 
 #EXTINF:-1 group-title="Lista 78 Colombia",Cine Premium HD 
 http://138.186.20.13:23200/play/a0dt 
-#EXTINF:-1 group-title="Lista 78 Colombia",CineCanal 
-http://138.186.20.13:23200/play/a090 
-#EXTINF:-1 group-title="Lista 78 Colombia",CineMax 
-http://138.186.20.13:23200/play/a08y 
 #EXTINF:-1 group-title="Lista 78 Colombia",Cinecanal HD 
 http://138.186.20.13:23200/play/a05x 
-#EXTINF:-1 group-title="Lista 78 Colombia",Cinemax HD 
-http://138.186.20.13:23200/play/a05b 
-#EXTINF:-1 group-title="Lista 78 Colombia",Claro Cinema 
-http://138.186.20.13:23200/play/a0eb 
 #EXTINF:-1 group-title="Lista 78 Colombia",Clover HD 
 http://138.186.20.13:23200/play/a04t 
 #EXTINF:-1 group-title="Lista 78 Colombia",Comedy Central HD 
 http://138.186.20.13:23200/play/a05c 
 #EXTINF:-1 group-title="Lista 78 Colombia",Cristovisiðn 
 http://138.186.20.13:23200/play/a0am 
-#EXTINF:-1 group-title="Lista 78 Colombia",DHE HD 
-http://138.186.20.13:23200/play/a07e 
 #EXTINF:-1 group-title="Lista 78 Colombia",DMJ 
 http://138.186.20.13:23200/play/a0fq
-#EXTINF:-1 group-title="Lista 78 Colombia",DW (Deutsch +) 
-http://138.186.20.13:23200/play/a08t 
 #EXTINF:-1 group-title="Lista 78 Colombia",De PelŦcula 
 http://138.186.20.13:23200/play/a0cf 
-#EXTINF:-1 group-title="Lista 78 Colombia",Discovery Channel 
-http://138.186.20.13:23200/play/a0e6 
 #EXTINF:-1 group-title="Lista 78 Colombia",Discovery Channel HD 
 http://138.186.20.13:23200/play/a09b #EXTINF:-1 group-title="Lista 78 Colombia",Discovery H&H HD http://138.186.20.13:23200/play/a0fc 
 #EXTINF:-1 group-title="Lista 78 Colombia",Discovery ID HD 
