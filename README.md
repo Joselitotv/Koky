@@ -55,14 +55,7 @@ http://138.186.20.13:23200/play/a0fq
 http://138.186.20.13:23200/play/a0cf 
 #EXTINF:-1 group-title="Lista 78 Colombia",Discovery Kids HD 
 http://138.186.20.13:23200/play/a0fb 
-#EXTINF:-1 group-title="Lista 78 Colombia",Discovery Kids HD 
-http://138.186.20.13:23200/play/a06j 
-#EXTINF:-1 group-title="Lista 78 Colombia",Discovery Science 
-http://138.186.20.13:23200/play/a06e 
-#EXTINF:-1 group-title="Lista 78 Colombia",Discovery Theater HD 
-http://138.186.20.13:23200/play/a0fd #EXTINF:-1 group-title="Lista 78 Colombia",Discovery Turbo http://138.186.20.13:23200/play/a0ch 
-#EXTINF:-1 group-title="Lista 78 Colombia",Discovery Turbo 
-http://138.186.20.13:23200/play/a0c1 
+#EXTINF:-1 group-title="Lista 78 Colombia",Discovery Turbo http://138.186.20.13:23200/play/a0ch 
 #EXTINF:-1 group-title="Lista 78 Colombia",Discovery World HD 
 http://138.186.20.13:23200/play/a09c 
 #EXTINF:-1 group-title="Lista 78 Colombia",Discovery World HD 
