@@ -17,10 +17,6 @@ http://138.186.20.13:23200/play/a06s
 http://138.186.20.13:23200/play/a0f2
 #EXTINF:-1 group-title="Lista 78 Colombia",BBC World 
 http://138.186.20.13:23200/play/a0ck 
-#EXTINF:-1 group-title="Lista 78 Colombia",Baby First 
-http://138.186.20.13:23200/play/a0db 
-#EXTINF:-1 group-title="Lista 78 Colombia",Baby TV 
-http://138.186.20.13:23200/play/a069 
 #EXTINF:-1 group-title="Lista 78 Colombia",Baby TV 
 http://138.186.20.13:23200/play/a08q 
 #EXTINF:-1 group-title="Lista 78 Colombia",CANTINA TV 
