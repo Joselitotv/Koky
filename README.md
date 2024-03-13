@@ -1,9 +1,9 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Lista 78 Colombia",24/7 Dragon ball super
 http://138.186.20.13:23200/play/a0f6 
-#EXTINF:-1 group-title="Lista 78 Colombia",A&E HD 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/633/904/png-transparent-a-e-networks-television-channel-entertainment-television-show-hd-logo.png" group-title="Lista 78 Colombia",A&E HD 
 http://138.186.20.13:23200/play/a04k 
-#EXTINF:-1 group-title="Lista 78 Colombia",A&E HD 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/633/904/png-transparent-a-e-networks-television-channel-entertainment-television-show-hd-logo.png" group-title="Lista 78 Colombia",A&E HD 
 http://138.186.20.13:23200/play/a078 
 #EXTINF:-1 group-title="Lista 78 Colombia",AMC HD 
 http://138.186.20.13:23200/play/a079 
