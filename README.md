@@ -35,14 +35,8 @@ http://138.186.20.13:23200/play/a0c6
 http://138.186.20.13:23200/play/a0bh 
 #EXTINF:-1 group-title="Lista 78 Colombia",Canal 13 
 http://138.186.20.13:23200/play/a0by 
-#EXTINF:-1 group-title="Lista 78 Colombia",Cartoon Network
-http://138.186.20.13:23200/play/a08g 
-#EXTINF:-1 group-title="Lista 78 Colombia",Cartoon Network 
-http://138.186.20.13:23200/play/a06m 
 #EXTINF:-1 group-title="Lista 78 Colombia",Cartoon Network HD 
 http://138.186.20.13:23200/play/a061 
-#EXTINF:-1 group-title="Lista 78 Colombia",Cartoonito 
-http://138.186.20.13:23200/play/a06o 
 #EXTINF:-1 group-title="Lista 78 Colombia",Cine Hispano HD 
 http://138.186.20.13:23200/play/a0dv 
 #EXTINF:-1 group-title="Lista 78 Colombia",Cine Latino 
