@@ -140,7 +140,7 @@ http://138.186.20.13:23200/play/a07h
 #EXTINF:-1 group-title="Lista 78 Colombia",H2 
 http://138.186.20.13:23200/play/a0df 
 #EXTINF:-1 group-title="Lista 78 Colombia",HBO HD 
-http://138.186.20.13:23200/play/a068 
+http://190.61.43.117:45000/play/a01w
 #EXTINF:-1 group-title="Lista 78 Colombia",HGTV 
 http://138.186.20.13:23200/play/a0c0 
 #EXTINF:-1 group-title="Lista 78 Colombia",HOGAR TV 
@@ -339,3 +339,11 @@ http://181.78.6.106:45000/play/a014
 http://190.61.43.117:45000/play/a024
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png"group-title="Deportes",Win Sports+op3 HD 
 http://200.59.188.3:8000/play/a028
+#EXTINF:-1 group-title="Lista 80 Colombia", HBO 2 HD 
+http://190.61.43.117:45000/play/a023 
+#EXTINF:-1 group-title="Lista 80 Colombia", Caracol HD 
+http://190.61.43.117:45000/play/a02v
+#EXTINF:-1 group-title="Lista 80 Colombia", Telepacifico 
+http://190.61.43.117:45000/play/a03j
+#EXTINF:-1 group-title="Lista 80 Colombia", RCN HD 
+http://190.61.43.117:45000/play/a01m
